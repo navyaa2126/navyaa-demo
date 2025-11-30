@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋, I'm [Your Name] – Creative Code & Cozy Tech </h1>
+<h1 align="center">Hey there, Navya this side! </h1>
 <h3 align="center">☁️ Full Stack Developer | 🌸 Creative Coding Enthusiast | 💡 Robotics & Python Explorer ☁️</h3>
 
 <p align="center">
